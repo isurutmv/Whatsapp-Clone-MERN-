@@ -1,7 +1,9 @@
-import React from 'react';
 import './App.css';
-import Sidebar from './Sidebar';
+
+import React from 'react';
+
 import Chat from './Chat';
+import Sidebar from './Sidebar';
 
 function App() {
   return (
@@ -10,8 +12,9 @@ function App() {
          <Sidebar/>
          <Chat/>
       </div>
-     {/* <p>@Created By : Isuru Udayanga</p> */}
-    </div>
+     {/* <p>@Created By : Isuru Udayanga</p> */
+}
+< /div>
   );
 }
 
