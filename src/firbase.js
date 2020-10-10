@@ -5,5 +5,5 @@ const firebaseConfig = {
   projectId: "whatsap-merne",
   storageBucket: "whatsap-merne.appspot.com",
   messagingSenderId: "455388262475",
-  appId: "1:455388262475:web:337e5676bb732c0ebf1dce"
+  appId: "1:455388262475:web:337e5676bb732c0ebf1dce",
 };
